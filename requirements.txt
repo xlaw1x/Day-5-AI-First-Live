@@ -1,0 +1,8 @@
+# Core Libraries
+pandas
+plotly
+streamlit
+openai==0.28.0
+
+# Optional Libraries for Error Handling and Additional Utilities
+python-dotenv
